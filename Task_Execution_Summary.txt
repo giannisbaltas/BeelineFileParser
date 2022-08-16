@@ -1,0 +1,30 @@
+{
+    "Map 1": {
+        "DURATION(ms)": "40112.00",
+        "CPU_TIME(ms)": "110,070",
+        "GC_TIME(ms)": "1,460",
+        "INPUT_RECORDS": "1,200",
+        "OUTPUT_RECORDS": "0"
+    },
+    "Map 3": {
+        "DURATION(ms)": "40112.00",
+        "CPU_TIME(ms)": "110,070",
+        "GC_TIME(ms)": "1,460",
+        "INPUT_RECORDS": "1,200",
+        "OUTPUT_RECORDS": "0"
+    },
+    "Map 4": {
+        "DURATION(ms)": "40112.00",
+        "CPU_TIME(ms)": "110,070",
+        "GC_TIME(ms)": "1,460",
+        "INPUT_RECORDS": "1,200",
+        "OUTPUT_RECORDS": "0"
+    },
+    "Reducer 2": {
+        "DURATION(ms)": "40112.00",
+        "CPU_TIME(ms)": "110,070",
+        "GC_TIME(ms)": "1,460",
+        "INPUT_RECORDS": "1,200",
+        "OUTPUT_RECORDS": "0"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Compile Query": "7.43s",
+    "Prepare Plan": "8.69s",
+    "Get Query Coordinator (AM)": "0.00s",
+    "Submit Plan": "0.48s",
+    "Start DAG": "1.45s",
+    "Run DAG": "80.54s"
+}
